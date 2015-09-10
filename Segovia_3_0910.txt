@@ -1,0 +1,7 @@
+-- Steps for journals --
+
+Step 1. Create file with the nano
+Step 2. Pour your heart into your journal
+Step 3. pit add *
+Step 4. git commit -m "this is my journal for (date goes here)"
+Step 5. git push -u origin master
