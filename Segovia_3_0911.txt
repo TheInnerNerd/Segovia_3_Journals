@@ -1,1 +1,2 @@
-pseudocode is a fake code basically, Pseudocode is an easier code you can probably test your planned code on, because it's an easier code to use. And it is good for executing codes.
+pseudocode is a fake code basically, Pseudocode is an easier code you can probably test your planned code on, because it's an easier code to use. 
+And it is good for executing codes.
