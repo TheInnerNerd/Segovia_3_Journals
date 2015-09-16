@@ -1,0 +1,12 @@
+~The 3 guiding rules, or principles are:
+  -Always tinker, dont be a stopper
+  -Helping others helps you
+  -No cellphones or other electronics
+~We do all this because this will better us as tinker-ers and compter scientist
+~The problem solving process, define the problem, generate solutions, decide the course of action,
+implement the solution, and evalutate the solution, PLEASE PLEASE PLEASE READ DEBUGGING ERROR 
+MESSAGES, and from there if it doesn't work try again.
+~The underlying motivation is to be a better problem solver
+~Perkins reseach, says it's better to be a mover, to problem solver, and not just give up and be a
+stopper
+
