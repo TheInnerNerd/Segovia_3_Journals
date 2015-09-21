@@ -1,0 +1,3 @@
+I have received all credit for all my journals. It's important to use a specific way of naming 
+files because if you don't you can't get credit for being awesome.
+To copy you need to use the command cp. 
