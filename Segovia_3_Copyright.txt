@@ -1,12 +1,22 @@
 Copyleft- The right to use someone's work as long as it remains the same
-Fair Use- Limitation to the rihgt granted by copyrighht law to the author of
+Fair Use- Limitation to the right granted by copyrighht law to the author of
   creative work
 Free Speech- The freedom to say what you want
-Free Software- Software that is free to use and alter
+Free Software- Software that is free to modify or change.r
 Freeware- Free software that may come with limitations and without source code.
 Public Domain- A domain that is public and free to use
-File-sharing- Sharing files from one computer to another
+File-sharing- Sharing files from one computer to another via internet
 Piracy- Illegaling dowloading music, games, movies or any other software that you
   would otherwise pay for.
 Plagiarism- The illegal act of using and claiming someone's work as your own.
-
+Infringement- Violation of law or right
+Proprietary- Having ownership of something
+Open Source- Software taht has the source code avaliable
+GNU GPL- Stands for General Public LIcense which allows users to do as they wish
+License- A permit to shown ownershop, to do something, or to trade wish
+MIT License- A free software license that allows for reuse oof the software
+Apache License- A free software license that has the Apche preservation of copyright
+EULA- An End of USer License Agreement is alegal contract between a software applocation author and
+  the user of the application
+Creative Commons- A non profit organization that enabkes the sharing and use of creativty and 
+  through free lwgal tools 
