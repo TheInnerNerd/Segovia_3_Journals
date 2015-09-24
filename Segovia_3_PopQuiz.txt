@@ -1,0 +1,5 @@
+MIT license gives you all control over the software, and GPL allows you to see the source code
+
+We will most likely use the GPL because Linux has a GPL agreement 
+
+You're wearing a GNU logo shirt
