@@ -12,11 +12,13 @@ Plagiarism- The illegal act of using and claiming someone's work as your own.
 Infringement- Violation of law or right
 Proprietary- Having ownership of something
 Open Source- Software taht has the source code avaliable
-GNU GPL- Stands for General Public LIcense which allows users to do as they wish
+GNU GPL- Stands for General Public License which allows users to do as they wish
 License- A permit to shown ownershop, to do something, or to trade wish
-MIT License- A free software license that allows for reuse oof the software
-Apache License- A free software license that has the Apche preservation of copyright
+MIT License- A free software license that allows for reuse of the software, gives power
+Apache License- A free software license that has the Apache preservation of copyright.
 EULA- An End of USer License Agreement is alegal contract between a software applocation author and
   the user of the application
-Creative Commons- A non profit organization that enabkes the sharing and use of creativty and 
-  through free lwgal tools 
+Creative Commons- A non profit organization that enables the sharing and use of creativty and 
+  through free legal tools 
+
+I've seen it on the Linux website. 

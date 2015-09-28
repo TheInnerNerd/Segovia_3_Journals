@@ -1,0 +1,12 @@
+Paid License- License in which all fees have been paid for
+Shareware- Free software for so long and then might be charged for continued use.
+Trialware- Software for a limited ammount of time before asked for a key that must be purchased, 
+  like a demo
+Ad-ware- Software that displays or downloads unwanted advertisments, like pop ups
+Crippleware- software distibuted with reduced fuctions but you can pay to get full fuctionality
+Freemium- a free software that has in-app purchase basically
+FreeWare (vs Free-OpenSource)- software available free of charge, but Free-OpenSource has the source
+  code available, and may be redistbuted an modified
+Richard Stallman- RMS is a software freedom activist and computer programmer, know for GNUx
+Lawrence Lessig- American academic, lawyer, political activist
+Eben Moglen- Professor of law and legal history at Columbia University

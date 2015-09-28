@@ -1,0 +1,4 @@
+- To count you must first define a for loop and tell it what to add by.
+- You can type out a number and then do % 
+- A series of if and then statement
+
