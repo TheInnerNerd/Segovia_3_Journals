@@ -1,0 +1,5 @@
+-A method is like a mini program within your program, it like sets a certain "command" to a certain
+instruction for later use.
+-They are good for using a single "mini program" that you plan to use later in your program
+-We can use methonds to find primes by making and using the methods, and these methods would 
+seprate numbers that are prime and otehrs that aren't
