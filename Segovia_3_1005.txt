@@ -1,0 +1,2 @@
+CODE COMMENTS are lines of "code" it's not really code it's just comments made through out your code/
+programs, to talk about what your'e doing
