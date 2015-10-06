@@ -1,0 +1,2 @@
+Methods, are like tiny programs that run in the big macho program. Classes are like sections of a
+ program. An instance is an object. A class method is a method on a class. 
