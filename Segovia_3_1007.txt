@@ -1,0 +1,3 @@
+A java class is like a section of the big picture/ program
+A java class for JavaFX might be like another dimension to the world of Java
+A methond for class might be like a normal method but in a class
