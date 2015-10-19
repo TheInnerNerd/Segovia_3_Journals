@@ -1,0 +1,9 @@
+I am done with my methonds. I got it done Fridays
+I wrote a few methods that drew shapes that made a face that I make.
+Yes it was like that to really get our attention.
+Yes i have
+
+private void drawRedSquare(GraphicsContext gc){
+	gc.setFill(color.RED);
+	gc.strokeLine(45, 35, 90, 50);
+
