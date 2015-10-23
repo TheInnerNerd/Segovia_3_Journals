@@ -6,4 +6,4 @@ Yes i have
 private void drawRedSquare(GraphicsContext gc){
 	gc.setFill(color.RED);
 	gc.strokeLine(45, 35, 90, 50);
-
+}
