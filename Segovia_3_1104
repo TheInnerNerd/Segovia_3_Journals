@@ -3,5 +3,5 @@ method programmed to do.
 ~I used one method, it was the actual part of the game, it made the game set a random number
 and allowed the player to play/ guess a number(s)
 ~A while loop is like a for loop but through boolean, it will continue to run as long as it is true
-~I used the while loop to keep runnong the game, boolean was used to run the while too and boolean
-remained true was long as the counter was above 0
+~I used the while loop to keep runnong the game, boolean was used to run the while loop  and boolean
+remained true as long as the counter was above 0
