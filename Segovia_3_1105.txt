@@ -1,0 +1,4 @@
+A string is an object you can pass through a method. 
+Strings are good for when you want to have a seires of numbers.
+ex String name = sc.nextLine()
+When the methods begins with string
