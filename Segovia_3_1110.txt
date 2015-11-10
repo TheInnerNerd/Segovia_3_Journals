@@ -1,0 +1,5 @@
+You track challenges the player completes by setting a check point, for a specific point of your 
+game.
+You can track hp by making a counter.
+
+
