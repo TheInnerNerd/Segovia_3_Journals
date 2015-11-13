@@ -1,0 +1,3 @@
+I will use while loops when the player loses to have them run the game again.
+I will use methods to set up each part/ desicion of the game.
+
