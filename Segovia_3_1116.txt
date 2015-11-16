@@ -1,0 +1,3 @@
+I will use methods to work out the game. to make the game be play able and not be a bunch of code
+I will pass values like scanner and nextlione
+
