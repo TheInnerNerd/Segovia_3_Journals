@@ -1,0 +1,2 @@
+I am gonna make a maze where there are "fake" exits, so you will have to go all over the map.
+I have face the challenges of making the map and adjusting to slick.
