@@ -1,0 +1,4 @@
+To add and image to a Slick gam we must put the image png to the res folder of the Slick game. From
+there we go to the object class and type "res/image.png" where it says new Image(.
+The Image is drawn in the class of the object. and it set out to be drawn in the main class, in
+out game it was known as Unwavering.
