@@ -1,3 +1,3 @@
 A class constructor is what tells the class what to do. It also lets the class know what to do.
-I think damage that the orb will do should be in its class.
-It should have the aniamtion and damage it does.
+I think damage that the orb will do should be in its class constructor.
+It should have the aniamtion and damage it does should be in the method.
