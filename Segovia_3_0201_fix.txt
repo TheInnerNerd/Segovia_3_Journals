@@ -1,0 +1,3 @@
+I will have to reformat my code and take or comment put my not needed code. I will also reorganize 
+all of my methods. I will do this so me and other leet people can recognize my code.
+
