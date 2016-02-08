@@ -1,0 +1,2 @@
+You would check to see if a weapon deals damage to an enemy you can use the intersect.
+
