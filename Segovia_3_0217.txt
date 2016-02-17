@@ -1,0 +1,22 @@
+What are arrays used for?
+	Arrays are used for generating ibjects that have the same values
+What is the code for an int array
+	Number[0] = new int [0,1,2,3];
+What is the code for a String array?
+	Words[0] = new String [yes,no,maybe,so];
+What is the code for a boolean array?	
+	TrueFalse[0] = new boolean [true,false];
+What is the code for a double array?
+	Decimals[0] = new double [3.14159, 666.666]
+How would you change the first value of the int array to 42?
+	0
+Of the String arrat ti "Bob"?
+	0
+What does this do: private String[] dessert = new String[3]:
+	It sets the start number at 3
+what does this do: private String[] postres = {"rice pudding", "pan dulce", "bunelos"}
+	Sets the array
+How are they differnt?
+	You need one to use the other
+How would we replace "bunelos" with "apple pie"?
+
