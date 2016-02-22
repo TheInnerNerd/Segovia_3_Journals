@@ -1,0 +1,12 @@
+Questions;
+
+1. Should we remake the classes for Item, Item1 and Itemwin?
+2. How are we supposed to make a setDirection method?
+3. What is the diffence betweeen player and Player?
+4. How do we make the orb go only so far?
+5. How do we make the orb just go straight?
+6. How can we set enemies on a certain path loop/ "patrol loop"?
+7. How can we make mulitple levels
+8. How can we set specfic spawn points for enemies or players
+9. What is the differnce between an Array and an ArrayList?
+10. Why doesn't my orb work?
