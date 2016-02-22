@@ -1,0 +1,1 @@
+-This code generates the animation for the sprite to go up. To go up when to you press the up key
