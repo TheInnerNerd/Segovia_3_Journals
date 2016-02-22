@@ -1,0 +1,15 @@
+We will be revising our Slick game to :
+	1. Have multiple levels
+	2. Enemies
+	3. Traps(or something with coordinates defines by an array.
+	4. Give or take damage
+	5. Score
+	6. Inventory or some compelling alternative
+What will you have to do to get this working?
+	I will pay atention to suck in all the information I need to successfully get this done. I 
+	will also try and fail to do it on my own. I will especially make an effort to get NetBeans
+	at home.
+Are you prepared?
+	I don't think I'm fully prepared just partially maybe.
+Do you have all knowledge you need? If not be specific? 
+	I have most of the knowledge but putting that knowledge into work i dont know i can do.
