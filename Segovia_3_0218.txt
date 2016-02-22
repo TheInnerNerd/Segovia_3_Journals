@@ -1,1 +1,38 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
 -This code generates the animation for the sprite to go up. To go up when to you press the up key
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+-It’s like starting a new languages, you don't learn everything word by word, you applit it  everyday, and it starts to make sense. The more we use it, the more ways we discover how to do varied tasks
+What is an array?
+-An array is an ordered list of datatypes e.g., integers, strings, boolean, etc.
+How do you make an array? Give an example.
+    int[] dog = [1,2,3,4,5]; // this creates an array with 5 positions with valuer in them
+int[] numb3rz = [42]; // this creates an empty array with 42 positions with no assigned values, i.e., null
+What is an ArrayList?
+-What is an ArrayList is resizeable array
+ to specify the datatype of an arraylist use <>, e.g.,
+ArrayList <int> myNumbers = new ArrayList();
+How do you make an ArrayList?
+ ArrayList <int> myNumbers = new ArrayList();
+     myNumber.add(“stuff”);
+What is the difference between an array and an ArrayList?
+  -An array is static, like it’s size. An ArrayLIst is dynamic
+How could be make a health counter for an avatar?
+ private int health = 100;
+ public void takeDmg(int damage) {
+this.health -= damage;
+}
