@@ -1,6 +1,6 @@
 - This code provides the sprite sheet animation. and tells which picture to use and when
-- It would be unrealistic becuase yo can lean to solve on your own and be leet at coding and we
-dont always use Slivl
+- It would be unrealistic becuase to learn to solve on own and we
+dont always use Slick.
 - We are trying to practice skills of java and problem solving
 - An array is a group of values related to the same thing.
 - String[0] = new words ["okay", "ok", "k"]
