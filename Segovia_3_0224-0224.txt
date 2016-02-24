@@ -1,0 +1,11 @@
+public class Rat{
+	System.out.println("this is a rat class");
+	
+}
+
+public class main{
+	public Rat rat, mouse;
+	rat = new Rat (50,50);
+	mouse = new Rat (100,100);
+	public ArrayList<Rat> rat1, rat2, rat3, rat4, rat5 new ArrayList();
+}
