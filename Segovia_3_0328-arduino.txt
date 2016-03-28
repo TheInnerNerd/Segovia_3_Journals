@@ -1,0 +1,9 @@
+	I have noticed the "methods" have similarity like "void" and it has for loops, Arrays are 
+	indicated differently and there is a const int. This seems to be differnt from int.  
+
+	Power is required for a circuit, that being ground and positive. Resistors are useful when
+	using LEDs
+
+	When we completed 6 projects, starting with the temperture sensor today.
+
+	I plan to create stopwatch of some sort or a something to deal with chance. 
