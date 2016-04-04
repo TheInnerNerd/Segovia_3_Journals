@@ -1,0 +1,11 @@
+What have you done?
+	We have done some progress like adjusting our stopwatch and the LCD screen
+What do you need to do?
+	We still need to code a way to reset the time for a reset button
+What will you be able to turn in on Friday?
+	I will be able to turn a to turn in a stop watch that goes on forever.
+What code changes are you writing?
+	I am writing to reset a time and minutes because you dont just want 100 seconds you want to 
+see 1 minutes and 40 secs
+What functions have you created?
+	The on going stop watch.
