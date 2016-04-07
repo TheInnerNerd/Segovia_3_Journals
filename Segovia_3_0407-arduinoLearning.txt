@@ -1,0 +1,10 @@
+I have learned while working with the Arduino it is very easy to learn in a way. You can pick up 
+on the language you are supposed to code in, it is similar to Java and ehat we have primary learned
+through out this school year. The book itself has project to teach the potiental of the arduino and
+its power.
+Another thing I've learned is that tinkering come in handy. You can pick up what you have learned 
+through the projects and kind of take bits and pieces of different projects and come up with a 
+completely diffent program. It is like arduino is based around tinking and what you can do with it.
+The 3rd thing I've learned about CS is how complex yet simple it is. What I mean is how you can do
+with such a small thing is literally an infinte of possiblities just like Java and OOP you can do 
+anything. 
