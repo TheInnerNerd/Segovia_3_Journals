@@ -1,0 +1,8 @@
+day 1: 1-7. day 2: 8-15 and day 3: 16- 20
+The biggest problem was 16. It was the biggest problem because it had me really think
+outside the box to get negatives to positives.
+I learned to thik about the more obvious way to solve the problem and then the hard version,
+I also learned to really think about the process i was gonna take to solve the problem.
+I learn that using algorithm design you can solve problems in a more efficent way and faster.
+Also using program optimization you can get your "code' to look alot better and more
+sophisticated.
