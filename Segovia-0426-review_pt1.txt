@@ -1,0 +1,41 @@
+Write a Java method to return the cubed value of some number.
+
+ public static void cubeIT(int x){
+	int a = x*x*x;
+	 return int a;
+ }
+
+Write an Arduino function to return the cubed value of some number.
+ 
+void loop() {
+  int i = 5; 
+  int squared; 
+  int cubed;
+ 
+  squared = i * i;
+  cubed = i * squared;
+  
+	return cubed;
+
+Create the class, an object, and class constructor for class student
+
+public class Student {
+	int hairLength;
+	int age;
+	string hairColor;
+	int grade;
+	public Student(int a, int b, string c, int d){
+		this.hairLength = a;
+		this.age = b;
+		this.hairColor = c;
+		this.grade = d;
+
+     }
+  }
+} 
+
+Describe - if we were to continue with Arduino - what would you create?
+ 
+I would continue with my timer, with the help of Colby he somewhat explained what i could do using
+java like explainations. I would just assign numbers to a buttob like 1 sec, ten seconds and 60 seconds
+I think through that i could finish it all.
